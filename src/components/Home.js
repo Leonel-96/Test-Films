@@ -1,9 +1,6 @@
 import React from "react";
 import '../css/home.css';
 import Security from '../images/Security.jpg';
-import img1 from '../images/img1.jpg';
-import img2 from '../images/img2.jpg';
-import img3 from '../images/img3.jpg';
 import {FaRegThumbsDown,FaRegThumbsUp} from 'react-icons/fa';
 import {connect} from 'react-redux';
 
